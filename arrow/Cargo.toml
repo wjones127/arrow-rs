@@ -74,7 +74,7 @@ pyarrow = ["pyo3"]
 
 [dev-dependencies]
 rand = "0.8"
-criterion = "0.3"
+criterion = "0.4"
 flate2 = "1"
 tempfile = "3"
 

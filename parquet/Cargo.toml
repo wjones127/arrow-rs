@@ -49,7 +49,7 @@ futures = { version = "0.3", optional = true }
 tokio = { version = "1.0", optional = true, default-features = false, features = ["macros", "fs", "rt", "io-util"] }
 
 [dev-dependencies]
-criterion = "0.3"
+criterion = "0.4"
 rand = "0.8"
 snap = "1.0"
 tempfile = "3.0"
